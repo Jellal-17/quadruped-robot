@@ -32,7 +32,7 @@ git clone https://github.com/Jellal-17/quadruped-robot.git
 ## 3.2 Build the Docker image:
 
 ```bash
-docker build -t model_control .
+docker build -t quadruped_robot .
 ```
 
 ## 3.3 Run the docker container:
